@@ -1,0 +1,654 @@
+{
+  "Lessons":[
+    {
+      "LessonName": "Legal Mandate in the use of Gender-Fair Language",
+      "Quiz":[
+        {
+          "Question":"Hon. Jesusa Corpuz\nBarangay __________\nBarangay 143, Manila",
+          "Choices":[
+            "Chairperson",
+            "Chairman",
+            "Chairwoman",
+            "Captain",
+            "Kapitana"
+          ],
+          "CorrectAnswer": "Chairperson"
+        },
+        {
+          "Question":"The priest then says, “I now pronounce you _________ and wife.”",
+          "Choices":[
+            "husband",
+            "man",
+            "groom",
+            "master",
+            "sir"
+          ],
+          "CorrectAnswer": "husband"
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Language",
+      "Quiz":[
+        {
+          "Question":"The priest then says, “I now pronounce you _________ and wife.”",
+          "Choices":[
+            "Husband",
+            "Man",
+            "Groom",
+            "Master",
+            "Sir"
+          ],
+          "CorrectAnswer": "Husband"
+        }
+      ]
+    },
+    {
+      "LessonName": "Guidelines for Non-Sexist Writing",
+      "Quiz":[
+        {
+          "Question":"All ____ are mortal.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"Marcia is a ____.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"The reader must decide for _______.",
+          "Choices":[
+            "themselves",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "themselves"
+        },
+        {
+          "Question":"The artist showcased ____ latest masterpiece at the gallery.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"All ____ deserve equal opportunities in education and employment.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"Samantha is a skilled ____ who excels in her profession.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"The athlete trained hard to improve ____ performance in the upcoming competition.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"All ____ have the right to express themselves freely.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"Jordan is a talented ____ who plays multiple musical instruments.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"In the team, everyone should contribute ____ best to achieve success.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The scientist presented ____ groundbreaking research findings.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"All ____ are encouraged to pursue careers in STEM fields.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"The CEO emphasized the importance of every employee giving ____ best effort.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"Alex is known for ____ dedication to environmental conservation.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"In the play, each character must confront ____ own fears and challenges.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The architect presented ____ innovative designs for the new building.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "girls",
+            "boys"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"The chef takes pride in ____ culinary skills and creativity.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"Parents should encourage ____ children to explore diverse interests.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The researcher presented ____ findings at the international conference.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The teacher advised the students to express ____ thoughts freely.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"All ____ should be recognized for their contributions to society.",
+          "Choices":[
+            "men",
+            "woman",
+            "human",
+            "boys",
+            "girls"
+          ],
+          "CorrectAnswer": "human"
+        },
+        {
+          "Question":"The doctor emphasized the importance of patients advocating for ____ health.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"A scientist should take pride in _______ discoveries.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The athlete demonstrated great skill in _______ chosen sport.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The manager needs to evaluate _______ team's performance.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"Every student should be responsible for _______ learning.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The writer should be proud of _______ work.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The musician must practice _______ instrument regularly.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"A good leader should be aware of _______ impact on the team.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The chef should be proud of _______ subordinates’ effort for the holiday season.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"Every employee should take responsibility for _______ actions.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The artist expressed individuality through _______ artwork.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The teacher encouraged students to express _______ ideas freely.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The architect takes pride in _______ unique designs.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"Every citizen should be aware of _______ civil duties.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"The poet should be true to _______ creative vision.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The engineer is responsible for _______ team's success.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/Her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"Every individual should strive for _______ personal best.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The athlete trained hard to improve ____ performance in the upcoming competition.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The student must manage _______ time effectively.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The CEO should be accountable for _______ company's performance.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"The journalist needs to verify _______ sources before publishing.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The explorer documented _______ adventures in a journal.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The doctor should prioritize _______ patients' well-being.",
+          "Choices":[
+            "his",
+            "her",
+            "their",
+            "himself",
+            "herself"
+          ],
+          "CorrectAnswer": "their"
+        },
+        {
+          "Question":"The musician is known for _______ unique style.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"_____ should be mindful of business strategies as an entrepreneur.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        },
+        {
+          "Question":"As a judge, _______ must consider decisions carefully.",
+          "Choices":[
+            "his",
+            "her",
+            "the",
+            "his/her",
+            "s/he"
+          ],
+          "CorrectAnswer": "his/her"
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Image or Other Literature",
+      "Quiz":[
+        {
+          "Question":"The priest then says, “I now pronounce you _________ and wife.”",
+          "Choices":[
+            "HUSBAND",
+            "MAN",
+            "GROOM",
+            "MASTER",
+            "SIR"
+          ],
+          "CorrectAnswer": "HUSBAND"
+        }
+      ]
+    },
+    {
+      "LessonName": "Gender-Fair language in the Vulnerable Sectors: PWD",
+      "Quiz":[
+        {
+          "Question":"Republic Act Number 1970",
+          "Choices":[
+            "Answer1",
+            "Answer2",
+            "Answer3",
+            "Answer4",
+            "Answer5",
+            "Answer6",
+            "Answer7",
+            "Answer8",
+            "Answer9",
+            "Answer10",
+            "Answer11",
+            "Answer12"
+          ],
+          "CorrectAnswer": "Answer6"
+        }
+      ]
+    },
+    {
+      "LessonName": "Contextualizing Sexist Language",
+      "Quiz":[
+        {
+          "Question":"Republic Act Number 1970",
+          "Choices":[
+            "Answer1",
+            "Answer2",
+            "Answer3",
+            "Answer4",
+            "Answer5",
+            "Answer6",
+            "Answer7",
+            "Answer8",
+            "Answer9",
+            "Answer10",
+            "Answer11",
+            "Answer12"
+          ],
+          "CorrectAnswer": "Answer6"
+        }
+      ]
+    },
+    {
+      "LessonName": "Extra-Extra: Gay Lingo",
+      "Quiz":[
+        {
+          "Question":"Republic Act Number 1970",
+          "Choices":[
+            "Answer1",
+            "Answer2",
+            "Answer3",
+            "Answer4",
+            "Answer5",
+            "Answer6",
+            "Answer7",
+            "Answer8",
+            "Answer9",
+            "Answer10",
+            "Answer11",
+            "Answer12"
+          ],
+          "CorrectAnswer": "Answer6"
+        }
+      ]
+    }
+  ]
+}

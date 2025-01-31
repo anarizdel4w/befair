@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AboutUsFragment"
+    android:background="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/about_us_logo"
+        android:layout_width="308dp"
+        android:layout_height="114dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/home_logo3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/about_us_card"
+        android:layout_width="366dp"
+        android:layout_height="575dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        app:cardCornerRadius="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/about_us_logo">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <TextView
+                android:id="@+id/about_us_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="About Us"
+                android:textColor="@color/purple_200"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_margin="20dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/about_us_heading">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:id="@+id/be_fair_logo"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/splash_logo" />
+
+                    <TextView
+                        android:id="@+id/about_us_content1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/be_fair_logo"
+                        android:padding="3dp"
+                        android:text="BE FAIR, the Gender-Fair Language Mobile Application, is an Android e-learning app designed for the Cavite State University-Cavite City Campus GAD Unit. The foremost aim of this application is to adopt a gender mainstreaming approach and promote gender development within the campus. This innovative initiative offers users access to essential knowledge that helps establish an inclusive environment conducive to equality and inclusivity among students and faculty members alike."
+                        android:textAlignment="center"
+                        android:textColor="@color/purple_200"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/gad_logo"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_below="@id/about_us_content1"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/gad_logo" />
+
+                    <TextView
+                        android:id="@+id/about_us_content2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/gad_logo"
+                        android:padding="3dp"
+                        android:text="The Cavite State University- Cavite City Campus Gender and Development Unit aims to strengthen faculty members’ capacity to integrate GAD and other issues and concerns in instruction, research, and extension.\nThey also aim to improve stakeholders’ understanding, awareness, and responsiveness to GAD issues, concerns, and laws on women. Moreover, the CvSU-CCC GAD unit intends to prepare and implement GAD programs, projects, and activities that will promote gender equity and equality and empower stakeholders in achieving their full potential.\n\n
+Developed by:\n
+Lyca Shanne N. Campaner\n
+Judy Anne F. Capistrano\n
+Shean Colline DR. Chua\n
+Jan Reign B. Reyes\n
+James Christian D. Villanueva\n
+Anarizdel-Chary M. Vitan\n
+\n
+Adviser:\n
+Mr. King David J. Agreda, MIT\n
+Technical Critic:\n
+Ms. Jocelyn Ramos"
+                        android:textAlignment="center"
+                        android:textColor="@color/purple_200"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+            </androidx.core.widget.NestedScrollView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/about_us_home"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@drawable/ic_home"
+        android:background="@drawable/icon_background"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:padding="7dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/about_us_card"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
